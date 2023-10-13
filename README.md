@@ -1,1 +1,0 @@
-# MetaTrader-AlgoTrading-ExpertAdvisors
