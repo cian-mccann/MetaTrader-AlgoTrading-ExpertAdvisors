@@ -23,7 +23,7 @@ void OnTick()
    double bid = NormalizeDouble(SymbolInfoDouble(_Symbol,SYMBOL_BID), _Digits);
    
    // Create positions if debugging
-   createPositionsForTesting(bid);
+   // createPositionsForTesting(bid);
    
    // Check if there is an open position
    if (PositionSelect(_Symbol)==true) {
